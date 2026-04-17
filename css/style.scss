@@ -1,3 +1,4 @@
+@use 'partial'; /* Partial fil hentes ind i style.css som et modul. Filen er en samling af varialbler mixins og funktioner der skal genbruges */
 
 .hero {
 	background-image: url('../img/hero-bg.jpg'); /* Adjust path and filename as needed */
